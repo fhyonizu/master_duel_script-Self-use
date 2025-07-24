@@ -1,0 +1,1 @@
+保证dist目录下exe和images文件夹同时存在
