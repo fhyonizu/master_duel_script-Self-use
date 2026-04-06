@@ -1,0 +1,15 @@
+# PyInstaller
+build/
+dist/
+
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
